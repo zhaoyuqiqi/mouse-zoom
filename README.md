@@ -21,7 +21,7 @@ English | [简体中文](./README.zh-CN.md)
 
 # Demo
 
-![demp](packages/vue-mouse-zoom/20240531174402_rec_.gif)
+![demp](https://github.com/zhaoyuqiqi/vue-mouse-zoom/raw/main/20240531174402_rec_.gif)
 
 # Feature
 

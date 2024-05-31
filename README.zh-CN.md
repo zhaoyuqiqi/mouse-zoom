@@ -20,7 +20,7 @@
 
 # 示例
 
-![示例](packages/vue-mouse-zoom/20240531174402_rec_.gif)
+![示例](https://github.com/zhaoyuqiqi/vue-mouse-zoom/raw/main/20240531174402_rec_.gif)
 
 # 特性
 
