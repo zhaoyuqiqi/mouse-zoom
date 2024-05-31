@@ -8,6 +8,14 @@
     "build:vue": "pnpm --filter vue-mouse-zoom build"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": {
+    "name": "zhaoyuqiqi",
+    "email": "1940988349@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaoyuqiqi/mouse-zoom.git"
+  },
+  "homepage": "https://github.com/zhaoyuqiqi/mouse-zoom",
+  "license": "MIT"
 }
