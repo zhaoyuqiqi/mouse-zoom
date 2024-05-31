@@ -1,0 +1,13 @@
+{
+  "name": "mouse-zoom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:vue": "pnpm --filter example-vue dev",
+    "build:vue": "pnpm --filter vue-mouse-zoom build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

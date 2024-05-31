@@ -1,0 +1,3 @@
+[submodule "packages/vue-mouse-zoom"]
+	path = packages/vue-mouse-zoom
+	url = git@github.com:zhaoyuqiqi/vue-mouse-zoom.git
